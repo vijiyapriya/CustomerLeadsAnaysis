@@ -40,10 +40,8 @@ env/
 Thumbs.db
 
 # Reports and outputs
-reports/*.png
 reports/*.html
 reports/*.xlsx
-reports/*.pptx
 
 # Data files (optional - uncomment if you don't want to commit large data files)
 # *.xlsx
