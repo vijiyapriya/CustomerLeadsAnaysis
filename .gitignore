@@ -41,7 +41,6 @@ Thumbs.db
 
 # Reports and outputs
 reports/*.html
-reports/*.xlsx
 
 # Data files (optional - uncomment if you don't want to commit large data files)
 # *.xlsx
